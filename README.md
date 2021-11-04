@@ -1,2 +1,2 @@
 # javascrip-masterclass-curso
-https://https://gleitons.github.io/javascrip-masterclass-curso/index.html
+https://https://gleitons.github.io/javascript-masterclass-curso/index.html
